@@ -1,7 +1,5 @@
 package com.hasany;
 
-package com.company;
-
 public class Singleton {
     // Variable estática privada para almacenar la única instancia de la clase
     private static Singleton instance;
